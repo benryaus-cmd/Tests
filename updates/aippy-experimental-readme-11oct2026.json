@@ -1,0 +1,10 @@
+{
+  "version": "aippy-readme-test1-11oct2026",
+  "baseUrl": "https://raw.githubusercontent.com/benryaus-cmd/Tests/main/",
+  "files": [
+    {
+      "source": "Test1.md",
+      "target": "README.md"
+    }
+  ]
+}
