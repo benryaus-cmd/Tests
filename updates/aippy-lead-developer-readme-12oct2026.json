@@ -1,0 +1,10 @@
+{
+  "version": "aippy-lead-developer-readme-12oct2026",
+  "baseUrl": "https://raw.githubusercontent.com/benryaus-cmd/Tests/main/",
+  "files": [
+    {
+      "source": "Teat2.md",
+      "target": "README.md"
+    }
+  ]
+}
