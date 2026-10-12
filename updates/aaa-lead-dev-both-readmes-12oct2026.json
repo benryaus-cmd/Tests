@@ -1,0 +1,14 @@
+{
+  "version": "aaa-lead-dev-readmes-12oct2026",
+  "baseUrl": "https://raw.githubusercontent.com/benryaus-cmd/Tests/47cbf9bd9df6dd7e0c0489ce865a892b1b085ce2/",
+  "files": [
+    {
+      "source": "AAA_LEAD_DEV_README.md",
+      "target": "README.md"
+    },
+    {
+      "source": "AAA_LEAD_DEV_README.md",
+      "target": "src/games/importedGame/README.md"
+    }
+  ]
+}
