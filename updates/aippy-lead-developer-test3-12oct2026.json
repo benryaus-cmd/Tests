@@ -1,0 +1,10 @@
+{
+  "version": "aippy-lead-developer-test3-12oct2026",
+  "baseUrl": "https://raw.githubusercontent.com/benryaus-cmd/Tests/main/",
+  "files": [
+    {
+      "source": "test3.md",
+      "target": "README.md"
+    }
+  ]
+}
