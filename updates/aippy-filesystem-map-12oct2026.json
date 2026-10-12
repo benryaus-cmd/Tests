@@ -1,0 +1,10 @@
+{
+  "version": "aippy-filesystem-map-12oct2026",
+  "baseUrl": "https://raw.githubusercontent.com/benryaus-cmd/Tests/6f7fb72deed7f9cf5473f67cbe095b1d3173f65b/",
+  "files": [
+    {
+      "source": "vite-plugin-filesystem-map.ts",
+      "target": "vite-plugin-filesystem-map.ts"
+    }
+  ]
+}
