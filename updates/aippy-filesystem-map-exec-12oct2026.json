@@ -1,0 +1,10 @@
+{
+  "version": "aippy-project-mapper-exec-v1",
+  "baseUrl": "https://raw.githubusercontent.com/benryaus-cmd/Tests/32a331938b9fbf9457ec69cc09c78a086728679c/",
+  "files": [
+    {
+      "source": "filesystem-map-workspace.mjs",
+      "target": "filesystem-map-workspace.mjs"
+    }
+  ]
+}
