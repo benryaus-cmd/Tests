@@ -1,0 +1,10 @@
+{
+  "version": "aippy-project-map-importer-v2",
+  "baseUrl": "https://raw.githubusercontent.com/benryaus-cmd/Tests/46b3826bea271ad2916e734ad0afb4c0dc2411ea/",
+  "files": [
+    {
+      "source": "vite-plugin-github-import-workspace-map.ts",
+      "target": "vite-plugin-github-import.ts"
+    }
+  ]
+}
