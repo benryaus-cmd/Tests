@@ -1,0 +1,14 @@
+{
+  "version": "aippy-viewer-build-map-12oct2026",
+  "baseUrl": "https://raw.githubusercontent.com/benryaus-cmd/Tests/1cdcf9ca94b48be93d9c3ecb53eb6464b243cd50/",
+  "files": [
+    {
+      "source": "aippy-viewer-update/src/components/ProjectFileViewer.tsx",
+      "target": "src/components/ProjectFileViewer.tsx"
+    },
+    {
+      "source": "aippy-viewer-update/vite-plugin-project-manifest.ts",
+      "target": "vite-plugin-project-manifest.ts"
+    }
+  ]
+}
